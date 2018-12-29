@@ -1,6 +1,6 @@
 var chalk = require('chalk');
 var mongoose = require( 'mongoose' );
-var bcrypt=require('bcrypt-nodejs-master');
+var bcrypt=require('bcrypt');
 var SALT_WORK_FACTOR = 10;
 
 
